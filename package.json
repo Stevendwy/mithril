@@ -1,0 +1,22 @@
+{
+  "name": "mithrildemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack src/index.js bin/app.js -d --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^1.1.5"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "bin": {
+    "mithrildemo": "app.js"
+  },
+  "description": ""
+}
