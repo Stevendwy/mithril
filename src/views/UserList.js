@@ -1,4 +1,4 @@
-// src/views/UserList.js
+// src/views/UserList.js 视图模块 进行展示 一个组件只有一个view 方法
 var m = require("mithril")
 var User = require("../models/User")
 

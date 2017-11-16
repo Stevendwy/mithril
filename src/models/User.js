@@ -1,4 +1,4 @@
-// src/models/User.js
+// src/models/User.js 存储状态用 服务器的通信放这里
 var m = require("mithril")
 
 var User = {

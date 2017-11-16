@@ -1,4 +1,4 @@
-// src/index.js
+// src/index.js 入口渲染文件 route 路由线
 var m = require("mithril")
 
 var UserList = require("./views/UserList")
